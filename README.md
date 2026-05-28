@@ -62,10 +62,10 @@ http://localhost:8080/users
 
 ```json
 {
-  "name": "Ravi",
-  "email": "ravi@gmail.com",
+  "name": "Chanikya",
+  "email": "charan@gmail.com",
   "password": "spring123",
-  "age": 25
+  "age": 22
 }
 ```
 
